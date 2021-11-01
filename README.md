@@ -56,3 +56,7 @@ Subsequent updates will have the type l2update. The changes property of l2update
 - Implement infinite scrolling
 - Better reorganize project files
 - Add tests for utility functions and / or components
+
+## Example UI
+
+![image001](https://user-images.githubusercontent.com/55159/139743694-61f20066-cbef-40f3-af6a-8fb15bcc7327.png)
